@@ -70,27 +70,27 @@ Share your forked repository link with the organizers by **August 31, 2026**!
 **Once you fork this repository, replace this entire README.md with the following format:**
 
 ```markdown
-# 🌸 [Your Name]'s Pookalam 2026 🌸
+# 🌸 Hiba's Pookalam 2026 🌸
 
 ## 👨‍💻 About Me
-- **Name:** [Your Full Name]
-- **Branch:** [Your Branch]
-- **Semester:** [Your Semester]
-- **Contact Number:** [Your Contact Number]
-- **Programming Language Used:** [Language]
+- **Name:** HIBA FATHIMA V
+- **Branch:** Electronics and Computer [ERE]
+- **Semester:** Semester 1 [S1]
+- **Contact Number:** 7306616593
+- **Programming Language Used:** HTML and CSS
 
 ## 🎨 My Pookalam
 
 ### Description
-[Write a brief description of your Pookalam design, inspiration, or the approach you took]
+Inspired by the traditional Pookalam of Kerala, this design combines vibrant floral colors with a simple, modern CSS-based approach. I recreated the circular layers and patterns using only HTML and CSS, keeping the festive essence of Onam alive in a digital form
 
 ### Preview
-![My Pookalam](output/pookalam-preview.png)
+![My Pookalam]c:\Users\User\Documents\pookalam\onam pookalam.png
 *Add more images if you have multiple views or animations*
 
 ### Features
-- [Feature 1 - e.g., "Colorful geometric patterns"]
-- [Feature 2 - e.g., "Interactive elements"]
+- [Feature 1 -Traditional Pookalam-inspired circular floral design]
+- [Feature 2 -Vibrant Onam-inspired colors and layered patterns]
 
 ## 🚀 How to Run
 
